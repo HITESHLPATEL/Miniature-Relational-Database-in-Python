@@ -1,6 +1,6 @@
 # Miniature-Relational-Database-in-Python
 Database Project
-eadme File
+Readme File
 Database Project Fall 2019
 Sajan Bang(sb6632), Hitesh Patel(hlp276)
 The project folder consists of the following files:
